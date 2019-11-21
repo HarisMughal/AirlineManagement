@@ -1,0 +1,20 @@
+For runnig the project, you must have
+
+1. Netbeans for running the java code
+2. XAMPP for the database
+
+After installing both softwares, you have the open the Xampp and start the 
+MySQL and Apache, after that press the "Admin" button of "MySQL". 
+A new window opens "localhost/phpmyadmin" where you have the create the database 
+"project" and import the file "project" from the project folder.
+
+After database, open the link of youtube "https://www.youtube.com/watch?v=Lq8V-pD4qCo&t=335s"
+in order to connect the database only from xampp with the netbeans. 
+ or Check 
+the "How to run the project" folder 
+
+In the final, run the form.java file and run the project successfully.
+
+
+
+                        Have A Nice Day.......! 
